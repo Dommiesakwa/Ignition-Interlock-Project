@@ -1,0 +1,9 @@
+pip install pandas
+pip install numpy
+pip install keras
+pip install os
+pip install openCV
+pip install tensorflow
+pip install jupyter
+pip install matplotlib
+pip install keras_preprocessing
